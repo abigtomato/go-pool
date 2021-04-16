@@ -1,2 +1,1 @@
-# go-pool
-Simple Goroutine Pool.
+# Goroutine池示例项目
